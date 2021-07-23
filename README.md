@@ -1,6 +1,6 @@
 ## Halo
 
-Writing code in:
+Halo, i am writing code in:
 
 
 ### Main Programming Languages
