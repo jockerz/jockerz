@@ -1,6 +1,6 @@
 ## Halo
 
-Hello, i am jockerz, writing code in:
+Writing code in:
 
 
 ### Main Programming Languages
@@ -13,5 +13,5 @@ Hello, i am jockerz, writing code in:
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+![Postgresql](https://img.shields.io/badge/postgresql-e0e0e0.svg?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/redis-333333.svg?logo=redis&style=for-the-badge&logoColor=d92b21)
