@@ -6,7 +6,6 @@ Halo, i am writing code in:
 ### Main Programming Languages
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust%20-%23100000.svg?&style=for-the-badge&logo=rust&logoColor=white)
 
 
 ### Technologies
