@@ -1,6 +1,6 @@
 ## Halo
 
-Halo, i am writing code in:
+Blog: [jockerz.github.io](https://jockerz.github.io)
 
 
 ### Main Programming Languages
