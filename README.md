@@ -5,8 +5,8 @@ Blog: [jockerz.github.io](https://jockerz.github.io)
 
 ### Main Programming Languages
 
-![Golang](https://img.shields.io/badge/Golang%20-%2300ACD7.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang%20-%2300ACD7.svg?&style=for-the-badge&logo=go&logoColor=white)
 
 
 ### Technologies
